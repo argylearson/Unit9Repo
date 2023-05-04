@@ -1,0 +1,19 @@
+Fill this out individually and do NOT commit it to the repository. Instead, submit it directly to me through Canvas.
+
+1) Why is inheritance a useful tool in object-oriented programming? Can you provide an example?
+
+
+
+2) What new keywords did you learn and what are they used for?
+
+
+
+3) Why would you want to override a function? Can you provide an example?
+
+
+
+4) When would you use an interface? Compare that to when you would use a parent class.
+
+
+
+5) What did you struggle with most on this project? In what ways did you most contribute to your group?
